@@ -1,3 +1,18 @@
 # HotelManagementSystem
+## Welcome to the Hotel Management System!
 
-Hotel Management System is a command-line application written in Java that simulates the operations of a real hotel. The application allows admins to manage employees and credit salaries, and customers to book rooms and order food. Additionally, it features a graphical user interface (GUI) feedback form created using `javax.swing` for customers to provide their feedback on the hotel services.
+This application enables both administrators and guests to efficiently handle various hotel operations.
+
+### For Administrators:
+- Manage room reservations
+- Oversee employee details
+- Add and view room information
+- Update and view the hotel menu
+
+### For Guests:
+- Make and view room reservations
+- Place and view food orders
+- Make payments for reservations and orders
+- Provide feedback on their stay
+
+The system ensures a seamless and organized management of all hotel-related activities.
